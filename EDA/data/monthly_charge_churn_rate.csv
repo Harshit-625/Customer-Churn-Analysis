@@ -1,0 +1,4 @@
+charge_plan,total_customers,churned_customers,churn_rate
+High(>$70),4125,1379,33.430303
+Medium($30-$70),1265,328,25.928854
+Low(<$30),1653,162,9.800363

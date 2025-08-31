@@ -1,0 +1,4 @@
+charges_group,total_customers,percentage
+High(>$70),4125,58.57
+"Medium($30 - $70)",1265,17.96
+Low(<$30),1653,23.47
